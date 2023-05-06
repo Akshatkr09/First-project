@@ -207,28 +207,22 @@
     .title {
         height: auto;
         text-align: center;
-
     }
-
     .mainbox {
-
         text-align: center;
         height: auto;
-
     }
-
     .para {
         text-overflow: ellipsis;
         text-align: center;
         padding: 0%;
-
     }
-
     .img1 {
         width: auto;
-        height: 250px;
-
+        height: 250px;  
     }
+    .form{
+        width: auto;
     .forminput input{
         padding: 0px;
         width: 98%;
