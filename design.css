@@ -211,6 +211,7 @@
     .mainbox {
         text-align: center;
         height: auto;
+        font-size: 20px;
     }
     .para {
         text-overflow: ellipsis;
