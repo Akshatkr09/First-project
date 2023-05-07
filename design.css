@@ -178,9 +178,12 @@
         flex-direction: column;
     }
 
-    .burger {
+     .burger {
         display: block;
-
+        position: fixed;
+        cursor: pointer;
+        right: 6%;
+        top: 3%;
     }
 
     .h-nav {
